@@ -82,7 +82,7 @@ chatWindow = Listbox(
     relief=RAISED,
     bg="gray88",
     fg="cyan4",
-    width=500,
+    width=400,
     height=15,
     font=("Bell MT", 13, "bold"),
 )
